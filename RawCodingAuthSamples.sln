@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CookieJwtAuth", "CookieJwtAuth\CookieJwtAuth.csproj", "{4658B0AE-BCB4-4F02-ADDD-B386D73E1E4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CookieInvalidation", "CookieInvalidation\CookieInvalidation.csproj", "{6DCBDF0D-1586-4379-B198-DD6EFA5A0ECA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TokenRevocation", "TokenRevocation\TokenRevocation.csproj", "{54B8D11A-06AC-4400-BBED-886F760B833A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefrechTokenSample", "RefrechTokenSample\RefrechTokenSample.csproj", "{8EBE9E60-0A8B-483B-928F-8EA4D7222566}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAuthAuth", "OAuthAuth\OAuthAuth.csproj", "{7C9E388B-B59A-4A51-A5C2-39769928FC34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExternalLoginSample", "ExternalLoginSample\ExternalLoginSample.csproj", "{8560208E-45F2-4F1D-B8E4-FF3CC5B4514E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4658B0AE-BCB4-4F02-ADDD-B386D73E1E4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4658B0AE-BCB4-4F02-ADDD-B386D73E1E4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4658B0AE-BCB4-4F02-ADDD-B386D73E1E4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4658B0AE-BCB4-4F02-ADDD-B386D73E1E4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DCBDF0D-1586-4379-B198-DD6EFA5A0ECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DCBDF0D-1586-4379-B198-DD6EFA5A0ECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DCBDF0D-1586-4379-B198-DD6EFA5A0ECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DCBDF0D-1586-4379-B198-DD6EFA5A0ECA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54B8D11A-06AC-4400-BBED-886F760B833A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54B8D11A-06AC-4400-BBED-886F760B833A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54B8D11A-06AC-4400-BBED-886F760B833A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54B8D11A-06AC-4400-BBED-886F760B833A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EBE9E60-0A8B-483B-928F-8EA4D7222566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EBE9E60-0A8B-483B-928F-8EA4D7222566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EBE9E60-0A8B-483B-928F-8EA4D7222566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EBE9E60-0A8B-483B-928F-8EA4D7222566}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C9E388B-B59A-4A51-A5C2-39769928FC34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C9E388B-B59A-4A51-A5C2-39769928FC34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C9E388B-B59A-4A51-A5C2-39769928FC34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C9E388B-B59A-4A51-A5C2-39769928FC34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8560208E-45F2-4F1D-B8E4-FF3CC5B4514E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8560208E-45F2-4F1D-B8E4-FF3CC5B4514E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8560208E-45F2-4F1D-B8E4-FF3CC5B4514E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8560208E-45F2-4F1D-B8E4-FF3CC5B4514E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
